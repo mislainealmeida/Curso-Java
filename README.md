@@ -5,7 +5,7 @@
 
 Aula 5-7: Usando o Terminal.
 
-Aula 10: Variáveis-   
+Aula 10: Variáveis-  
 Aula 11: Tipos primitivos-  
 Aula 12: Classe Scanner-  
 Aula 13: Operadores-  
